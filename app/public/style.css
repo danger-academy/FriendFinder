@@ -3,7 +3,7 @@ body {
 }
 
 #home {
-    background: #efefef url("https://via.placeholder.com/150") no-repeat fixed center; 
+    background: #efefef url("./images/friend-hug.jpeg") no-repeat fixed center; 
     background-size: cover;
 }
 
@@ -12,7 +12,7 @@ body {
 }
 
 #survey {
-    background: #efefef url("https://via.placeholder.com/150") no-repeat fixed center; 
+    background: #efefef url("./images/leaf-play.jpeg") no-repeat fixed center; 
     background-size: cover;
 }
 h1, h2, h3, h4, h5, h6 {

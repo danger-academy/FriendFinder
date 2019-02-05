@@ -25,7 +25,7 @@ The live app is here [https://](https://  "Play Date FriendFinder")
 ### How It Works
 
 ![Homepage](./screenshots/friendfinder-home.png)
-The front-end will be composed of a basic <a href="https://www.surveymonkey.com/mp/likert-scale/" target="blank">Likert</a> survey for parents to complete.
+* The front-end will be composed of a basic <a href="https://www.surveymonkey.com/mp/likert-scale/" target="blank">Likert</a> survey for parents to complete.
 
 ![Survey](./screenshots/friendfinder-survey.png)
 * The back-end will take in results from the parent surveys, save them, then compare their answers with those from other parents.

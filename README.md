@@ -5,7 +5,7 @@ In a perfect world, I would have preferred to match the children themselves up w
 * honestly assess/rank their own child's qualities to match them with other kids
 * enable other parents to rank/evaluate those children post-play date
 
-I'm not a monster.
+I'm not a monster. I just ask parents to quantify their own parenting style, to be matched up with similar folks. The kids will sort themselves out.
 
 ---
 The live app is here [https://](https://  "Play Date FriendFinder")
